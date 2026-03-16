@@ -28,4 +28,4 @@ LMS VCLASS adalah platform manajemen pembelajaran berbasis web yang dirancang un
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username/edu-lms.git](https://github.com/username/edu-lms.git)
+   git clone [[https://github.com/dnrstudio-id/VCLASS.v1.git](https://github.com/dnrstudio-id/VCLASS.v1.git)]
